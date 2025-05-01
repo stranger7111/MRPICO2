@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BeginScene 2.unity
+    guid: 1861e8f9350839945853cc0d455625e6
+  - enabled: 1
+    path: Assets/Scenes/BeginScene.unity
+    guid: 40b91f2f203a134438ad0a3cd976f022
+  - enabled: 1
+    path: Assets/Scenes/Zhanguo.unity
+    guid: 8c4edc85429fc89478c0cdd4c304b345
+  - enabled: 1
+    path: Assets/Scenes/HanDinasty.unity
+    guid: e21b57ae46bded944b3421cb8d53b33b
+  - enabled: 1
+    path: Assets/Scenes/SongDinasty.unity
+    guid: 47efe108aac09114fb5325b05cf200e3
+  - enabled: 1
+    path: Assets/Scenes/QingDinasty.unity
+    guid: ba045f5730445ed42a447fccf5ec4feb
+  m_configObjects:
+    Unity.XR.PICO.LivePreview.Settings: {fileID: 11400000, guid: 3eee28e80a4814c4d9cf284bbe3121d6, type: 2}
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: dbbb51d6adf639b4f9beb7b9a408fcbb, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6d5532ab4c7fb9e41befb9df0dbd5019, type: 2}
